@@ -10,6 +10,8 @@ Feature of this software:
 4. Support post press equipment automation, such as embedding barcodes, QR codes, and other information.
 5. Ctrl+O:Open folder select pdf file   Ctrl+E:Auto impose
 
-The author of this software has been engaged in S&D for over 20 years, aiming to provide more professional information solutions for factories.
+please go to sourceforge download steup file. https://visual-imposer.sourceforge.io/
+
+The author of this software has been engaged in S&D for many years, aiming to provide more professional information solutions for factories.
 
 If you have any questions about IT, you can contact me through visualproc@hotmail.com.
